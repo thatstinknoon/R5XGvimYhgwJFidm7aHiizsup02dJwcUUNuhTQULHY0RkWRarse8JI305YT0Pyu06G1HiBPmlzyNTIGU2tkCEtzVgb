@@ -1,4 +1,5 @@
 return {
 	[1] = {"HWID HERE","banned for [reason here]"},
 	[2] = {"A86B7530-05B6-443C-A24D-3EC5933561B2","banned for BEING ANNOying"},
+	[3] = {"592C51C4-56E7-43A4-BC16-2D94FD1792E8","go away"},
 }
